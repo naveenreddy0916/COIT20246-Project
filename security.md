@@ -22,8 +22,10 @@ The identification of assets, mapping of the relevant threats/vulnerabilities, t
 Covered categories: phishing/social engineering; malware/ransomware; unauthorised access; insider misuse; misconfiguration; DoS/availability loss; IoT/CCTV compromise; physical theft/damage.
 
 ### 4.3.1.4 Completed outputs (evidence)
-- Spreadsheet: [risk-assessment-template-v01_completed.xlsx](security/risk-assessment-template-v01_completed.xlsx)  
-- TVAMatrix screenshots: link PNG/JPG files stored in `security/` (e.g., `TVAMatrix_1.png`).
+[risk-assessment-template-v01_completed.xlsx](./risk-assessment-template.xlsx) 
+
+![](./tva1.png)
+![](./tva2.png)
 
 ### 4.3.1.5 Summary of top risks
 
